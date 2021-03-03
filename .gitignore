@@ -24,9 +24,11 @@
 *.lai
 *.la
 *.a
-*.lib
 
 # Executables
 *.exe
 *.out
 *.app
+/src/.vs/
+/src/x64/
+/.idea/
